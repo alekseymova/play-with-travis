@@ -4,5 +4,4 @@ python:
 - '3.5'
 script: python -m unittest
 notifications:
-  slack:
-    secure: unitsystems:hTelKS6F5V2ssmzdKGcvUIP5
+  slack: unitsystems:hTelKS6F5V2ssmzdKGcvUIP5
